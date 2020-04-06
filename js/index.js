@@ -56,3 +56,5 @@ ctaImg.setAttribute('src', siteContent["main-content"]["middle-img-src"])
 for (let i = 0; i < navLinks.length; i++){
   navLinks[i].text = navTitles[i]
 }
+
+// CTA //
